@@ -1,2 +1,2 @@
-# Final-Project---Clothing-Recommander
+# Final-Project
 Clothing Recommander
