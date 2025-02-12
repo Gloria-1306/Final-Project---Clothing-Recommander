@@ -1,0 +1,101 @@
+#,Country,Name,Market Cap
+1,FR,LVMH,$321.6B
+2,FR,Hermès,$240.7B
+3,ES,Inditex,$177B
+4,US,TJX Companies,$142.3B
+5,US,Nike,$117.7B
+6,IT,EssilorLuxottica,$111.8B
+7,FR,Christian Dior,$108B
+8,JP,Fast Retailing,$106.2B
+9,CH,Richemont,$84.2B
+10,US,Ross Stores,$51.9B
+11,DE,Adidas,$43.6B
+12,US,Lululemon,$41.1B
+13,US,Deckers Outdoor,$30.7B
+14,FR,Kering,$29B
+15,SE,H&M,$22.8B
+16,CN,Prada,$19.3B
+17,US,On Holding,$18.8B
+18,US,Burlington Stores,$18.4B
+19,US,Dick's Sporting Goods,$17.4B
+20,UK,Next,$15.3B
+21,US,Tapestry Inc.,$15B
+22,JP,Asics Corp,$14.9B
+23,US,Polo Ralph Lauren,$14.5B
+24,IT,Moncler,$13.2B
+25,US,Amer Sports,$12.9B
+26,AU,Puig,$11.3B
+27,US,Skechers,$9.9B
+28,UK,Marks & Spencer,$9.8B
+29,US,Birkenstock,$9.7B
+30,US,Gap Inc.,$9.7B
+31,CH,The Swatch Group,$9.3B
+32,DE,Zalando,$8.3B
+33,US,VF Corporation,$8.1B
+34,US,Abercrombie & Fitch,$7.9B
+35,CA,Gildan Activewear,$7.7B
+36,US,Dillard's,$7.3B
+37,US,Levi Strauss & Co.,$7.2B
+38,DE,Puma,$7B
+39,US,Brunello Cucinelli,$6.8B
+40,UK,JD Sports Fashion,$6.7B
+41,US,Crocs,$6.4B
+42,US,PVH,$6.2B
+43,CN,Li Ning,$5.5B
+44,US,Kontoor Brands,$5.2B
+45,US,Columbia Sportswear Company,$5B
+46,US,Urban Outfitters,$4.7B
+47,US,Macy's,$4.7B
+48,US,Under Armour,$4.2B
+49,UK,Burberry,$4.2B
+50,CA,Aritzia Inc.,$3.9B
+51,US,American Eagle Outfitters,$3.8B
+52,US,Nordstrom,$3.8B
+53,US,Steve Madden,$3.3B
+54,US,Victoria's Secret,$3.3B
+55,US,Hanesbrands,$3.1B
+56,DE,Hugo Boss AG,$2.8B
+57,US,Capri Holdings,$2.8B
+58,US,Buckle.com,$2.7B
+59,US,Foot Locker,$2.4B
+60,US,Ermenegildo Zegna,$2.1B
+61,US,Carter's,$2B
+62,US,Wolverine World Wide,$1.9B
+63,US,KOHL'S,$1.7B
+64,UK,Watches of Switzerland,$1.5B
+65,CA,Groupe Dynamite,$1.4B
+66,US,G-III Apparel Group,$1.4B
+67,US,Oxford Industries,$1.3B
+68,US,Salvatore Ferragamo,$995.4M
+69,US,FIGS,$918.7M
+70,US,Canada Goose,$908.7M
+71,US,Guess?,$889.6M
+72,UK,Dr. Martens,$834.3M
+73,US,The RealReal,$662.5M
+74,DE,About You,$619.5M
+75,US,Mytheresa,$575.5M
+76,UK,Asos,$575.2M
+77,FI,Marimekko,$514.6M
+78,JP,Onward Holdings,$489.3M
+79,JP,United Arrows,$478.9M
+80,US,Movado Group,$464.7M
+81,US,Zumiez Inc,$431.6M
+82,BE,Van de Velde Lingerie,$385.3M
+83,IT,Safilo Group,$365.4M
+84,US,Weyco Group,$344M
+85,US,Designer Brands Inc.,$306.4M
+86,US,The Children's Place Retail,$205.4M
+87,US,ThredUp,$198.5M
+88,US,Lanvin Group,$190.1M
+89,US,Vera Bradley,$167.7M
+90,US,Rocky Brands,$166.4M
+91,US,Fossil,$125M
+92,SE,Bjorn Borg,$117.5M
+93,IT,Aeffe,$83.3M
+94,US,Cato Fashion,$65.1M
+95,US,Allbirds,$64.6M
+96,DE,Global Fashion Group,$57.6M
+97,HK,Esprit Holdings,$48.9M
+98,US,Rent the Runway,$46.5M
+99,AT,Wolford,$26.1M
+100,US,BEBE Stores,$13.9M
