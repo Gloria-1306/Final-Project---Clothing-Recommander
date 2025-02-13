@@ -1,0 +1,211 @@
+country,human_development_index_(hdi),life_expectancy_at_birth,expected_years_of_schooling,mean_years_of_schooling,gross_national_income_(gni)_per_capita
+Switzerland,0.967,84,16,13,69433
+Norway,0.966,83,18,13,69190
+Iceland,0.959,82,19,13,54688
+"Hong Kong, China (SAR)",0.956,84,17,12,62486
+Denmark,0.952,81,18,13,62019
+Sweden,0.952,83,19,12,56996
+Germany,0.95,81,17,14,55340
+Ireland,0.95,82,19,11,87468
+Singapore,0.949,84,16,11,88761
+Australia,0.946,83,21,12,49257
+Netherlands,0.946,82,18,12,57278
+Belgium,0.942,82,18,12,53644
+Finland,0.942,82,19,12,49522
+Liechtenstein,0.942,84,15,12,146673
+United Kingdom,0.94,82,17,13,46624
+New Zealand,0.939,83,19,12,43665
+United Arab Emirates,0.937,79,17,12,74104
+Canada,0.935,82,16,13,48444
+Korea (Republic of),0.929,84,16,12,46026
+Luxembourg,0.927,82,14,13,78554
+United States,0.927,78,16,13,65565
+Austria,0.926,82,16,12,56530
+Slovenia,0.926,82,17,12,41587
+Japan,0.92,84,15,12,43644
+Israel,0.915,82,15,13,43588
+Malta,0.915,83,15,12,44464
+Spain,0.911,83,17,10,40043
+France,0.91,83,16,11,47379
+Cyprus,0.907,81,16,12,40137
+Italy,0.906,84,16,10,44284
+Estonia,0.899,79,15,13,37152
+Czechia,0.895,78,16,12,39945
+Greece,0.893,80,20,11,31382
+Bahrain,0.888,79,16,11,48731
+Andorra,0.884,83,12,11,54233
+Poland,0.881,77,15,13,35151
+Latvia,0.879,75,16,13,32083
+Lithuania,0.879,74,16,13,38131
+Croatia,0.878,79,15,12,34324
+Qatar,0.875,81,13,10,95944
+Saudi Arabia,0.875,77,15,11,50620
+Portugal,0.874,82,16,9,35315
+San Marino,0.867,83,12,10,57687
+Chile,0.86,79,16,11,24431
+Slovakia,0.855,75,14,13,32171
+Türkiye,0.855,78,19,8,32834
+Hungary,0.851,75,15,12,34196
+Argentina,0.849,76,19,11,22048
+Kuwait,0.847,80,15,7,56729
+Montenegro,0.844,76,15,12,22513
+Saint Kitts and Nevis,0.838,72,18,10,28442
+Uruguay,0.83,78,17,9,22207
+Romania,0.827,74,14,11,31641
+Antigua and Barbuda,0.826,79,15,10,18784
+Brunei Darussalam,0.823,74,13,9,59246
+Russian Federation,0.821,70,15,12,26992
+Bahamas,0.82,74,11,12,32535
+Panama,0.82,76,13,10,32029
+Oman,0.819,73,13,11,32967
+Georgia,0.814,71,16,12,15952
+Trinidad and Tobago,0.814,74,14,11,22473
+Barbados,0.809,77,16,9,14810
+Malaysia,0.807,76,12,10,27295
+Costa Rica,0.806,77,16,8,20248
+Serbia,0.805,74,14,11,19494
+Thailand,0.803,79,15,8,16887
+Kazakhstan,0.802,69,14,12,22587
+Seychelles,0.802,71,13,11,28386
+Belarus,0.801,73,14,12,18425
+Bulgaria,0.799,71,13,11,25921
+Palau,0.797,65,17,13,19344
+Mauritius,0.796,74,14,10,23252
+Grenada,0.793,75,16,9,13593
+Albania,0.789,76,14,10,15293
+China,0.788,78,15,8,18025
+Armenia,0.786,73,14,11,15388
+Mexico,0.781,74,14,9,19138
+Iran (Islamic Republic of),0.78,74,14,10,14770
+Sri Lanka,0.78,76,13,11,11899
+Bosnia and Herzegovina,0.779,75,13,10,16571
+Saint Vincent and the Grenadines,0.772,69,16,11,14049
+Dominican Republic,0.766,74,13,9,18653
+Ecuador,0.765,77,14,9,10693
+North Macedonia,0.765,73,13,10,16396
+Cuba,0.764,78,14,10,7953
+Moldova (Republic of),0.763,68,14,11,12964
+Maldives,0.762,80,12,7,18847
+Peru,0.762,73,14,10,11916
+Azerbaijan,0.76,73,12,10,15018
+Brazil,0.76,73,15,8,14616
+Colombia,0.758,73,14,8,15014
+Libya,0.746,72,14,7,19752
+Algeria,0.745,77,15,7,10978
+Turkmenistan,0.744,69,13,11,12860
+Guyana,0.742,66,13,8,35783
+Mongolia,0.741,72,14,9,10351
+Dominica,0.74,73,13,9,12468
+Tonga,0.739,71,16,10,6360
+Jordan,0.736,74,12,10,9295
+Ukraine,0.734,68,13,11,11416
+Tunisia,0.732,74,14,8,10297
+Marshall Islands,0.731,65,16,12,6855
+Paraguay,0.731,70,13,8,13161
+Fiji,0.729,68,13,10,11234
+Egypt,0.728,70,12,9,12361
+Uzbekistan,0.727,71,12,11,8056
+Viet Nam,0.726,74,13,8,10814
+Saint Lucia,0.725,71,12,8,14778
+Lebanon,0.723,74,12,8,12313
+South Africa,0.717,61,14,11,13186
+"Palestine, State of",0.716,73,13,9,6936
+Indonesia,0.713,68,14,8,12046
+Philippines,0.71,72,12,9,9059
+Botswana,0.708,65,11,10,14842
+Jamaica,0.706,70,12,9,9695
+Samoa,0.702,72,12,11,4970
+Kyrgyzstan,0.701,70,13,12,4782
+Belize,0.7,71,12,8,9242
+Venezuela (Bolivarian Republic of),0.699,71,13,9,6184
+Bolivia (Plurinational State of),0.698,64,15,9,7988
+Morocco,0.698,75,14,6,7955
+Nauru,0.696,64,12,9,14939
+Gabon,0.693,65,12,9,11194
+Suriname,0.69,70,11,8,12310
+Bhutan,0.681,72,13,5,10625
+Tajikistan,0.679,71,10,11,4807
+El Salvador,0.674,71,11,7,8886
+Iraq,0.673,71,12,6,9092
+Bangladesh,0.67,73,11,7,6511
+Nicaragua,0.669,74,12,7,5427
+Cabo Verde,0.661,74,11,6,7601
+Tuvalu,0.653,64,12,10,4754
+Equatorial Guinea,0.65,61,12,8,10663
+India,0.644,67,12,6,6951
+Micronesia (Federated States of),0.634,70,12,7,3709
+Guatemala,0.629,68,10,5,8996
+Kiribati,0.628,67,11,9,3440
+Honduras,0.624,70,10,7,5272
+Lao People's Democratic Republic,0.62,69,10,5,7745
+Vanuatu,0.614,70,11,7,3244
+Sao Tome and Principe,0.613,68,12,5,4054
+Eswatini (Kingdom of),0.61,56,14,5,8392
+Namibia,0.61,58,11,7,9200
+Myanmar,0.608,67,12,6,4038
+Ghana,0.602,63,11,6,5380
+Kenya,0.601,62,11,7,4808
+Nepal,0.601,70,12,4,4026
+Cambodia,0.6,69,11,5,4291
+Congo,0.593,63,12,8,2903
+Angola,0.591,61,12,5,5328
+Cameroon,0.587,61,13,6,3681
+Comoros,0.586,63,13,6,3261
+Zambia,0.569,61,11,7,3157
+Papua New Guinea,0.568,66,11,4,3710
+Timor-Leste,0.566,69,13,6,1629
+Solomon Islands,0.562,70,10,5,2273
+Syrian Arab Republic,0.557,72,7,5,3594
+Haiti,0.552,63,11,5,2802
+Uganda,0.55,63,11,6,2241
+Zimbabwe,0.55,59,11,8,2079
+Nigeria,0.548,53,10,7,4755
+Rwanda,0.548,67,11,4,2317
+Togo,0.547,61,13,5,2214
+Mauritania,0.54,64,8,4,5344
+Pakistan,0.54,66,7,4,5374
+Côte d'Ivoire,0.534,58,10,4,5376
+Tanzania (United Republic of),0.532,66,8,5,2578
+Lesotho,0.521,53,11,7,2709
+Senegal,0.517,67,9,2,3464
+Sudan,0.516,65,8,3,3515
+Djibouti,0.515,62,8,3,4875
+Malawi,0.508,62,11,5,1432
+Benin,0.504,60,10,3,3406
+Gambia,0.495,62,9,4,2090
+Eritrea,0.493,66,7,5,1957
+Ethiopia,0.492,65,9,2,2369
+Liberia,0.487,61,10,5,1330
+Madagascar,0.487,65,9,4,1464
+Guinea-Bissau,0.483,59,10,3,1880
+Congo (Democratic Republic of the),0.481,59,9,7,1080
+Guinea,0.471,59,10,2,2404
+Afghanistan,0.462,62,10,2,1335
+Mozambique,0.461,59,10,3,1219
+Sierra Leone,0.458,60,9,3,1613
+Burkina Faso,0.438,59,8,2,2037
+Yemen,0.424,63,7,2,1106
+Burundi,0.42,62,10,3,712
+Mali,0.41,59,7,1,2044
+Chad,0.394,53,8,2,1389
+Niger,0.394,62,7,1,1283
+Central African Republic,0.387,54,7,4,869
+South Sudan,0.381,55,5,5,691
+Somalia,0.38,56,7,1,1072
+Korea (Democratic People's Rep. of),,73,0,0,0
+Monaco,,86,18,0,0
+Very high human development,0.902,79,16,12,44958
+High human development,0.764,75,14,8,15484
+Medium human development,0.64,68,12,6,6444
+Low human development,0.517,61,9,4,3186
+Developing countries,0.694,70,12,7,11125
+Arab States,0.704,71,11,7,14391
+East Asia and the Pacific,0.766,76,14,8,16138
+Europe and Central Asia,0.802,73,15,10,19763
+Latin America and the Caribbean,0.763,73,14,9,15109
+South Asia,0.641,68,11,6,6972
+Sub-Saharan Africa,0.549,60,10,6,3666
+Least developed countries,0.542,64,10,5,3006
+Small island developing states,0.73,71,12,8,16379
+Organisation for Economic Co-operation and Development,0.906,80,16,12,46318
+World,0.739,72,13,8,17254

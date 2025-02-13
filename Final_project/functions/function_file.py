@@ -75,7 +75,27 @@ def cat_stats(df, column):
 
 
 # In[ ]:
+def merge_notebooks(notebook_files, output_file):
+    """
+    Fusionne plusieurs notebooks en un seul.
+    
+    :param notebook_files: liste des chemins vers les notebooks à fusionner
+    :param output_file: chemin du notebook de sortie fusionné
+    """
+    # Créer un nouveau notebook vide (version 4)
+    merged_notebook = nbformat.v4.new_notebook()
+    merged_notebook.cells = []
+
+    for nb_file in notebook_files:
+        with open(nb_file, 'r', encoding='utf-8') as f:
+            nb = nbformat.read(f, as_version=4)
+            # Vous pouvez éventuellement filtrer ou réordonner les cellules ici
+            merged_notebook.cells.extend(nb.cells)
+
+    with open(output_file, 'w', encoding='utf-8') as f:
+        nbformat.write(merged_notebook, f)
 
 
 
 
+# %%
