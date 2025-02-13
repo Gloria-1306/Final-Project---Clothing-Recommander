@@ -1,0 +1,325 @@
+[{
+  "column_name": "country",
+  "data_type": "STRING"
+}, {
+  "column_name": "human_development_index__hdi_",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "life_expectancy_at_birth",
+  "data_type": "INT64"
+}, {
+  "column_name": "expected_years_of_schooling",
+  "data_type": "INT64"
+}, {
+  "column_name": "mean_years_of_schooling",
+  "data_type": "INT64"
+}, {
+  "column_name": "gross_national_income__gni__per_capita",
+  "data_type": "INT64"
+}, {
+  "column_name": "_",
+  "data_type": "INT64"
+}, {
+  "column_name": "Country",
+  "data_type": "STRING"
+}, {
+  "column_name": "Name",
+  "data_type": "STRING"
+}, {
+  "column_name": "Market_Cap",
+  "data_type": "STRING"
+}, {
+  "column_name": "geoareacode",
+  "data_type": "INT64"
+}, {
+  "column_name": "country",
+  "data_type": "STRING"
+}, {
+  "column_name": "human_development_index__hdi_",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "hdi_group",
+  "data_type": "STRING"
+}, {
+  "column_name": "Country",
+  "data_type": "STRING"
+}, {
+  "column_name": "Sector",
+  "data_type": "STRING"
+}, {
+  "column_name": "Gas",
+  "data_type": "STRING"
+}, {
+  "column_name": "Unit",
+  "data_type": "STRING"
+}, {
+  "column_name": "Year",
+  "data_type": "INT64"
+}, {
+  "column_name": "Emissions",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "goal",
+  "data_type": "STRING"
+}, {
+  "column_name": "target",
+  "data_type": "STRING"
+}, {
+  "column_name": "indicator",
+  "data_type": "STRING"
+}, {
+  "column_name": "seriesdescription",
+  "data_type": "STRING"
+}, {
+  "column_name": "geoareacode",
+  "data_type": "INT64"
+}, {
+  "column_name": "geoareaname",
+  "data_type": "STRING"
+}, {
+  "column_name": "timeperiodstart",
+  "data_type": "INT64"
+}, {
+  "column_name": "value",
+  "data_type": "INT64"
+}, {
+  "column_name": "string_field_0",
+  "data_type": "STRING"
+}, {
+  "column_name": "string_field_1",
+  "data_type": "STRING"
+}, {
+  "column_name": "string_field_2",
+  "data_type": "STRING"
+}, {
+  "column_name": "string_field_3",
+  "data_type": "STRING"
+}, {
+  "column_name": "double_field_4",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_5",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_6",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_7",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_8",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_9",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_10",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_11",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_12",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_13",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_14",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_15",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_16",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_17",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_18",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_19",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_20",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_21",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_22",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_23",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_24",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_25",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_26",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_27",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_28",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_29",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_30",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_31",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_32",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_33",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_34",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "double_field_35",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "Brand_ID",
+  "data_type": "STRING"
+}, {
+  "column_name": "Brand_Name",
+  "data_type": "STRING"
+}, {
+  "column_name": "Country",
+  "data_type": "STRING"
+}, {
+  "column_name": "Year",
+  "data_type": "INT64"
+}, {
+  "column_name": "Sustainability_Rating",
+  "data_type": "STRING"
+}, {
+  "column_name": "Material_Type",
+  "data_type": "STRING"
+}, {
+  "column_name": "Eco_Friendly_Manufacturing",
+  "data_type": "BOOL"
+}, {
+  "column_name": "Carbon_Footprint_MT",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "Water_Usage_Liters",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "Waste_Production_KG",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "Recycling_Programs",
+  "data_type": "BOOL"
+}, {
+  "column_name": "Product_Lines",
+  "data_type": "INT64"
+}, {
+  "column_name": "Average_Price_USD",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "Market_Trend",
+  "data_type": "STRING"
+}, {
+  "column_name": "Certifications",
+  "data_type": "STRING"
+}, {
+  "column_name": "goal",
+  "data_type": "INT64"
+}, {
+  "column_name": "target",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "indicator",
+  "data_type": "STRING"
+}, {
+  "column_name": "seriesdescription",
+  "data_type": "STRING"
+}, {
+  "column_name": "geoareacode",
+  "data_type": "INT64"
+}, {
+  "column_name": "geoareaname",
+  "data_type": "STRING"
+}, {
+  "column_name": "_2000",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2001",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2002",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2003",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2004",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2005",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2006",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2007",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2008",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2009",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2010",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2011",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2012",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2013",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2014",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2015",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2016",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2017",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2018",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2019",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2020",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2021",
+  "data_type": "FLOAT64"
+}, {
+  "column_name": "_2022",
+  "data_type": "FLOAT64"
+}]
